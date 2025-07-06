@@ -1,6 +1,7 @@
-# Customer Churn Analysis Report
+# 🚨 Customer Churn Analysis Report
 
-## Key Findings
+## 📌 Executive Summary
+This comprehensive analysis identifies critical patterns in customer churn behavior, providing actionable insights to reduce attrition and improve retention strategies across key demographics and service types.
 
 ### Contract Type Impact
 - Month-to-month contracts show **42% churn rate** (highest risk)
